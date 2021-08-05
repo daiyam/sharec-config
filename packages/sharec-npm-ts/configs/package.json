@@ -1,0 +1,8 @@
+{
+	"main": "lib/index.js",
+	"scripts": {
+		"compile": "tsc -p ./",
+		"prepublish": "npm run compile",
+		"watch": "tsc -watch -p ./"
+	}
+}

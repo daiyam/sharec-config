@@ -1,0 +1,25 @@
+{
+	"name": "@daiyam/sharec-vsx-zokugun",
+	"version": "0.0.0",
+	"description": "The configuration to have the organization Zokugun as the author of the created Visual Studio extension.",
+	"author": {
+		"name": "Baptiste Augrain",
+		"email": "daiyam@zokugun.org"
+	},
+	"license": "MIT",
+	"homepage": "https://github.com/daiyam/sharec-config/tree/master/packages/sharec-vsx-zokugun",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/daiyam/sharec-config.git"
+	},
+	"bugs": {
+		"url": "https://github.com/daiyam/sharec-config/issues"
+	},
+	"scripts": {
+		"postinstall": "sharec"
+	},
+	"dependencies": {
+		"sharec": "^2.10.2"
+	},
+	"keywords": []
+}
