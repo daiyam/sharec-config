@@ -2,7 +2,6 @@ Sharec Config
 =============
 
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
-[![NPM Version](https://img.shields.io/npm/v/PACKAGE_NAME.svg?colorB=green)](https://www.npmjs.com/package/PACKAGE_NAME)
 
 This repository is a collection of configurations using [sharec](https://github.com/lamartire/sharec).
 
