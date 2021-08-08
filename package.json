@@ -1,7 +1,6 @@
 {
 	"name": "sharec-config",
 	"description": "A collection of configurations using sharec",
-	"version": "0.0.0",
 	"private": true,
 	"author": {
 		"name": "Baptiste Augrain",
