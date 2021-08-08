@@ -2,5 +2,9 @@
 	"version": "independent",
 	"packages": [
 		"packages/*"
-	]
+	],
+	"publish": {
+		"conventionalCommits": true,
+		"noChangelog": true
+	}
 }
