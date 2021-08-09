@@ -19,7 +19,7 @@
 		"postinstall": "sharec"
 	},
 	"dependencies": {
-		"sharec": "^2.10.2"
+		"sharec": "*"
 	},
 	"keywords": [
 		"sharec",
