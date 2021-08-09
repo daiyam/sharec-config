@@ -1,7 +1,6 @@
 {
 	"scripts": {
 		"commit": "cz",
-		"create": "npx fixpack || true",
 		"prepare": "husky install;"
 	},
 	"dependencies": {},
