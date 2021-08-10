@@ -1,6 +1,6 @@
 {
 	"name": "@daiyam/sharec-npm-daiyam",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "The configuration to have me as the author of the created node module.",
 	"author": {
 		"name": "Baptiste Augrain",
