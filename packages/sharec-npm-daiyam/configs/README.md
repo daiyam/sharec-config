@@ -3,9 +3,9 @@
 
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 [![NPM Version](https://img.shields.io/npm/v/PACKAGE_NAME.svg?colorB=green)](https://www.npmjs.com/package/PACKAGE_NAME)
-[![License](https://img.shields.io/badge/donate-ko--fi-green)](https://ko-fi.com/daiyam)
-[![License](https://img.shields.io/badge/donate-liberapay-green)](https://liberapay.com/daiyam/donate)
-[![License](https://img.shields.io/badge/donate-paypal-green)](https://paypal.me/daiyam99)
+[![Donation](https://img.shields.io/badge/donate-ko--fi-green)](https://ko-fi.com/daiyam)
+[![Donation](https://img.shields.io/badge/donate-liberapay-green)](https://liberapay.com/daiyam/donate)
+[![Donation](https://img.shields.io/badge/donate-paypal-green)](https://paypal.me/daiyam99)
 
 
 

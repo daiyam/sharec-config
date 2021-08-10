@@ -4,9 +4,9 @@ EXT_DISPLAY_NAME
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/EXT_ID.svg)](https://marketplace.visualstudio.com/items?itemName=EXT_ID)
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/EXT_ID.svg)](https://marketplace.visualstudio.com/items?itemName=EXT_ID)
-[![License](https://img.shields.io/badge/donate-ko--fi-green)](https://ko-fi.com/daiyam)
-[![License](https://img.shields.io/badge/donate-liberapay-green)](https://liberapay.com/daiyam/donate)
-[![License](https://img.shields.io/badge/donate-paypal-green)](https://paypal.me/daiyam99)
+[![Donation](https://img.shields.io/badge/donate-ko--fi-green)](https://ko-fi.com/daiyam)
+[![Donation](https://img.shields.io/badge/donate-liberapay-green)](https://liberapay.com/daiyam/donate)
+[![Donation](https://img.shields.io/badge/donate-paypal-green)](https://paypal.me/daiyam99)
 
 
 
