@@ -1,6 +1,6 @@
 {
 	"name": "@daiyam/sharec-lang-ts",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"description": "The configuration for my typescript projects",
 	"author": {
 		"name": "Baptiste Augrain",
