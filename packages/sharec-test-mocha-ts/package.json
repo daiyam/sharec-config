@@ -1,6 +1,6 @@
 {
 	"name": "@daiyam/sharec-test-mocha-ts",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"description": "The configuration to do unit testing with mocha and typescript.",
 	"author": {
 		"name": "Baptiste Augrain",
