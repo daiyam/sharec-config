@@ -8,18 +8,7 @@
 			"error",
 			"always"
 		],
-		"capitalized-comments": [
-			"error",
-			"always",
-			{
-				"line": {
-					"ignorePattern": "."
-				},
-				"block": {
-					"ignorePattern": "\\w+\\.ts\\b"
-				}
-			}
-		],
+		"capitalized-comments": "off",
 		"complexity": "off",
 		"default-case": "off",
 		"max-depth": [
@@ -35,10 +24,7 @@
 		"no-negated-condition": "off",
 		"one-var": [
 			"error",
-			{
-				"initialized": "never",
-				"uninitialized": "consecutive"
-			}
+			"never"
 		],
 		"@typescript-eslint/brace-style": [
 			"error",
