@@ -23,7 +23,8 @@ import {  } from 'PACKAGE_NAME'
 
 
 
-## Donations
+Donations
+---------
 
 Support this project by becoming a financial contributor.
 
